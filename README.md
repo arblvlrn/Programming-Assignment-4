@@ -58,7 +58,20 @@ To specifically show the results, I used .loc to show only the required informat
 
 #### Problem 2
 
-This section aims to visualize the hometown, gender, tracl and the average board exam scores of the students through a bar chart.
+This section aims to visualize the hometown, gender, track, and average board exam scores of the students through a bar chart.
+
+I used plt.figure to input the plot size of the bar graph
+
+````
+fig1 = plt.figure(figsize=(20, 4))
+````
+
+The plot.bar, on the other hand, indicates which label goes in the Y- and X-axis
+````
+plt.bar(board['Name'], board['average'], color = colors)
+````
+
+Lastly, the plot.title indicates the title of the bar graph itself.
 
 -------------------------------------------------------------------------------------------------------------------------------
 
