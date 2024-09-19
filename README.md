@@ -8,16 +8,22 @@ Date Submitted: September 19, 2024
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-Description
+#### Description
+
 This Jupyter Notebook focuses on Experiment 4, which deals with the essential processes of data wrangling and data visualization. The notebook includes examples related to real-world data manipulation and visualization tasks, specifically involving problems related to the ECE board exam.
 
-Contents
+##### Contents
+
 Data Wrangling: Includes importing and manipulating datasets using the pandas library.
+
 Data Visualization: It demonstrates how to create visual representations of data using common Python libraries.
+
 ECE Board Exam Problem: The notebook contains a specific problem set related to the ECE board exams.
 
 To run this notebook, the following Python libraries are required:
+
 pandas
+
 matplotlib
 
 Before anything else I used
