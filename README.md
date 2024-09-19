@@ -77,7 +77,7 @@ Lastly, the plot.title indicates the title of the bar graph itself.
 
 ## Conclusion
 
-In this activity, we practiced data wrangling and visualization to analyze student performance in the ECE board exams. By organizing the data and creating visual representations, we were able to uncover patterns and draw meaningful insights. This exercise demonstrated the value of using data to better understand and interpret real-world information.
+In this activity, we practiced data wrangling and visualization to analyze student performance in the ECE board exams. By organizing the data and creating visual representations, we were able to understand more about the topic and have meaningful insights. This exercise demonstrated the importance of using data to better understand and interpret real-world information.
 
 
 
