@@ -26,7 +26,7 @@ To run this notebook, the following Python libraries are required:
 
 - matplotlib
 
-Before anything else I used
+Before anything else, I used
 ````
 import pandas as pd
 ````
