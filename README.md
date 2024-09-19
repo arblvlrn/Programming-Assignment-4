@@ -22,9 +22,9 @@ ECE Board Exam Problem: The notebook contains a specific problem set related to 
 
 To run this notebook, the following Python libraries are required:
 
-pandas
+- pandas
 
-matplotlib
+- matplotlib
 
 Before anything else I used
 ````
